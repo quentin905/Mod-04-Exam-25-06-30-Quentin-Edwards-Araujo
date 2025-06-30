@@ -26,4 +26,11 @@ this explains the steps for troubleshooting with the microsoft store. it provide
 
 Part C Part 2  https://www.boostitco.com/blog/ways-to-fix-programs-that-wont-open-on-windows-10/
 
-"Common causes of the program not opening" is the title of the wesbiste it provides general knowledge what can cause issues for programs not opening and why there are not opening. They could be corrupeted, outdated, something to do with the user account control settings and many more. 
+"Common causes of the program not opening" is the title of the wesbiste it provides general knowledge what can cause issues for programs not opening and why there are not opening. They could be corrupeted, outdated, something to do with the user account control settings and many more. later twoards the mid part of this website if you to miss this it would probably affect your way. It starts from Troubleshooting methods, it gives the core way to fix the issue and usually this the genral way for any computer or any program to fix the issue and it always works most of the time.
+
+
+Question 2  https://support.microsoft.com/en-us/windows/file-explorer-in-windows-ef370130-1cca-9dc5-e0df-2f7416fe1cb1
+https://uis.georgetown.edu/file-explorer/
+https://edu.gcfglobal.org/en/windowsbasics/working-with-files/1/
+
+For these three webiste they provided the same amount of key knowledge on how to properly use the software of windowds file explorer but the scond came in the a table of information which i found more particular becasue it looked way simpler and gave more carifaction there steps. the last website was known as fairly simple to any other but still gave good info woth steps including there own pictures for each step i found this helpful for those arent always able to learn just by reading but better by seeing clearly. And lasetly for the first link that I have typed twoards the top besides the title Question 2, it gave imagies as well but what i found that is always nice there always provide a help team for buigger companies if not undertsood through there information.
