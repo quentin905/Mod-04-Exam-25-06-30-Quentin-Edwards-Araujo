@@ -19,3 +19,11 @@ The website starts out as "how to check for memory problems in windows". basical
 Part 3 Part B  https://www.microsoft.com/en-us/surface/do-more-with-surface/how-to-use-windows-memory-diagnostic
 
 It provides a lot of information of different ways of troubleshooting and tactics that could help ensure fix the issue such as windows memory diagnostic tool and the app. they provide as well the step to step basis and how to use it. it also explained breifly what the ram is for those who arent certain and to get the best understanding of it. this website is well put together  for troubleshooting.
+
+Part C  https://support.microsoft.com/en-us/account-billing/fix-problems-with-apps-from-microsoft-store-93ed0bcf-9c12-3df6-6dda-92ec5d0415ac
+
+this explains the steps for troubleshooting with the microsoft store. it provides what do do from step to step making sure its updated, if theres any issue withthe games within the app that are installed and if not then it would be to uninstall the apps and reinstalling them.
+
+Part C Part 2  https://www.boostitco.com/blog/ways-to-fix-programs-that-wont-open-on-windows-10/
+
+"Common causes of the program not opening" is the title of the wesbiste it provides general knowledge what can cause issues for programs not opening and why there are not opening. They could be corrupeted, outdated, something to do with the user account control settings and many more. 
