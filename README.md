@@ -6,4 +6,4 @@ I've found a list of the most popular and helpful questions that people should a
 -Using a 64-bit version of Microsoft Excel.
 -Adding memory to your device". Another question that should be asked is "Could I close some tabs in Chrome?" or "Is there any applications that are consuming to much memory?" other unnecessary apps that may cause the performance of your system. Excel cannot complete this task with available resources. "Choose less data or close other applications".
 
-#Part B
+#Part B  
